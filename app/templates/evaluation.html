@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+<div>
+    <div class="chart " id="bargraph" style="float: center; margin: auto; width: 80%; height: 90vh;">
+        <script>
+            var graphs = {{ plot | safe }};
+            Plotly.plot('bargraph',graphs,{});
+        </script>
+    
+    </div>
+</div>

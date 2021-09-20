@@ -1,0 +1,1872 @@
+{
+    "kreuzheben": [
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "kreuzheben",
+            "reps": 6,
+            "sets": 2,
+            "weight": 95.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "kreuzheben",
+            "reps": 6,
+            "sets": 2,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 85.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 65.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "kreuzheben",
+            "reps": 6,
+            "sets": 2,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-14T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-14T00:00:00",
+            "name": "kreuzheben",
+            "reps": 1,
+            "sets": 1,
+            "weight": 110.0
+        },
+        {
+            "date": "2021-08-14T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-14T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "kreuzheben",
+            "reps": 6,
+            "sets": 2,
+            "weight": 95.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "kreuzheben",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        }
+    ],
+    "pull down": [
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 1,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 3,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 1,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 2,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 2,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 2,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "pull down",
+            "reps": 12,
+            "sets": 2,
+            "weight": 60.0
+        }
+    ],
+    "pulley row": [
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 35.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 45.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 2,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-09T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 55.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 35.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 45.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 2,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 45.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "pulley row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 55.0
+        }
+    ],
+    "bauch unroll": [
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "bauch unroll",
+            "reps": 10,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "bauch unroll",
+            "reps": 10,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-07-26T00:00:00",
+            "name": "bauch unroll",
+            "reps": 10,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-14T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "bauch unroll",
+            "reps": 12,
+            "sets": 3,
+            "weight": 0.0
+        }
+    ],
+    "bankdrücken": [
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 3,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 3,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 55.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bankdrücken",
+            "reps": 8,
+            "sets": 1,
+            "weight": 75.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bankdrücken",
+            "reps": 4,
+            "sets": 1,
+            "weight": 65.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 65.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 3,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "bankdrücken",
+            "reps": 14,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "bankdrücken",
+            "reps": 9,
+            "sets": 2,
+            "weight": 50.0
+        }
+    ],
+    "wide chest press": [
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "wide chest press",
+            "reps": 12,
+            "sets": 3,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "wide chest press",
+            "reps": 12,
+            "sets": 4,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-14T00:00:00",
+            "name": "wide chest press",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-14T00:00:00",
+            "name": "wide chest press",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-14T00:00:00",
+            "name": "wide chest press",
+            "reps": 12,
+            "sets": 2,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-14T00:00:00",
+            "name": "wide chest press",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        }
+    ],
+    "kabelzug brust - 3": [
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "kabelzug brust - 3",
+            "reps": 12,
+            "sets": 1,
+            "weight": 10.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "kabelzug brust - 3",
+            "reps": 12,
+            "sets": 1,
+            "weight": 15.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "kabelzug brust - 3",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        }
+    ],
+    "peack back brust": [
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "peack back brust",
+            "reps": 12,
+            "sets": 1,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "peack back brust",
+            "reps": 12,
+            "sets": 1,
+            "weight": 35.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "peack back brust",
+            "reps": 12,
+            "sets": 3,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "peack back brust",
+            "reps": 12,
+            "sets": 2,
+            "weight": 35.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "peack back brust",
+            "reps": 12,
+            "sets": 1,
+            "weight": 30.0
+        }
+    ],
+    "bizeps kabelzug": [
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "bizeps kabelzug",
+            "reps": 12,
+            "sets": 3,
+            "weight": 15.0
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "bizeps kabelzug",
+            "reps": 12,
+            "sets": 1,
+            "weight": 17.5
+        },
+        {
+            "date": "2021-08-08T00:00:00",
+            "name": "bizeps kabelzug",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        }
+    ],
+    "squats": [
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 1,
+            "weight": 65.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 1,
+            "weight": 75.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 1,
+            "weight": 75.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-07-26T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 2,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-07-26T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 1,
+            "weight": 65.0
+        },
+        {
+            "date": "2021-07-26T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 2,
+            "weight": 75.0
+        },
+        {
+            "date": "2021-07-26T00:00:00",
+            "name": "squats",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        }
+    ],
+    "waden presse": [
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "waden presse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "waden presse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "waden presse",
+            "reps": 15,
+            "sets": 3,
+            "weight": 100.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "waden presse",
+            "reps": 20,
+            "sets": 3,
+            "weight": 120.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "waden presse",
+            "reps": 15,
+            "sets": 3,
+            "weight": 80.0
+        }
+    ],
+    "leg press": [
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "leg press",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "leg press",
+            "reps": 12,
+            "sets": 3,
+            "weight": 120.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "leg press",
+            "reps": 12,
+            "sets": 2,
+            "weight": 140.0
+        },
+        {
+            "date": "2021-08-07T00:00:00",
+            "name": "leg press",
+            "reps": 12,
+            "sets": 2,
+            "weight": 160.0
+        },
+        {
+            "date": "2021-07-26T00:00:00",
+            "name": "leg press",
+            "reps": 12,
+            "sets": 1,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-07-26T00:00:00",
+            "name": "leg press",
+            "reps": 12,
+            "sets": 2,
+            "weight": 120.0
+        },
+        {
+            "date": "2021-07-26T00:00:00",
+            "name": "leg press",
+            "reps": 12,
+            "sets": 2,
+            "weight": 130.0
+        }
+    ],
+    "langhantel rudern": [
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "langhantel rudern",
+            "reps": 20,
+            "sets": 2,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "langhantel rudern",
+            "reps": 12,
+            "sets": 2,
+            "weight": 60.0
+        }
+    ],
+    "high row": [
+        {
+            "date": "2021-08-05T00:00:00",
+            "name": "high row",
+            "reps": 12,
+            "sets": 4,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "high row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "high row",
+            "reps": 12,
+            "sets": 2,
+            "weight": 80.0
+        }
+    ],
+    "low row": [
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 95.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 2,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "low row",
+            "reps": 12,
+            "sets": 3,
+            "weight": 50.0
+        }
+    ],
+    "seated dip": [
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "seated dip",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "seated dip",
+            "reps": 12,
+            "sets": 1,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "seated dip",
+            "reps": 12,
+            "sets": 3,
+            "weight": 100.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "seated dip",
+            "reps": 12,
+            "sets": 1,
+            "weight": 130.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "seated dip",
+            "reps": 12,
+            "sets": 2,
+            "weight": 120.0
+        }
+    ],
+    "bizeps maschine": [
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 2,
+            "weight": 25.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 3,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 1,
+            "weight": 25.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 1,
+            "weight": 27.5
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 1,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 1,
+            "weight": 27.5
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 1,
+            "weight": 25.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "bizeps maschine",
+            "reps": 12,
+            "sets": 3,
+            "weight": 30.0
+        }
+    ],
+    "schulterdrücken": [
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 4,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 6,
+            "sets": 3,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 3,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "schulterdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 20.0
+        }
+    ],
+    "brust druck maschine": [
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "brust druck maschine",
+            "reps": 12,
+            "sets": 1,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "brust druck maschine",
+            "reps": 12,
+            "sets": 2,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "brust druck maschine",
+            "reps": 12,
+            "sets": 2,
+            "weight": 40.0
+        }
+    ],
+    "trizeps kabelzug": [
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "trizeps kabelzug",
+            "reps": 12,
+            "sets": 2,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-08-04T00:00:00",
+            "name": "trizeps kabelzug",
+            "reps": 12,
+            "sets": 4,
+            "weight": 15.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "trizeps kabelzug",
+            "reps": 12,
+            "sets": 5,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "trizeps kabelzug",
+            "reps": 12,
+            "sets": 4,
+            "weight": 15.0
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "trizeps kabelzug",
+            "reps": 12,
+            "sets": 1,
+            "weight": 15.0
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "trizeps kabelzug",
+            "reps": 12,
+            "sets": 3,
+            "weight": 20.0
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "trizeps kabelzug",
+            "reps": 12,
+            "sets": 1,
+            "weight": 15.0
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "trizeps kabelzug",
+            "reps": 12,
+            "sets": 2,
+            "weight": 20.0
+        }
+    ],
+    "schräges bankdrücken": [
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "schräges bankdrücken",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "schräges bankdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "schräges bankdrücken",
+            "reps": 12,
+            "sets": 2,
+            "weight": 40.0
+        }
+    ],
+    "bankdrückenk": [
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "bankdrückenk",
+            "reps": 12,
+            "sets": 3,
+            "weight": 50.0
+        }
+    ],
+    "peak back (brust)": [
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "peak back (brust)",
+            "reps": 12,
+            "sets": 1,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "peak back (brust)",
+            "reps": 12,
+            "sets": 1,
+            "weight": 45.0
+        },
+        {
+            "date": "2021-07-31T00:00:00",
+            "name": "peak back (brust)",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        }
+    ],
+    "klimpzüge": [
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "klimpzüge",
+            "reps": 10,
+            "sets": 3,
+            "weight": 35.0
+        }
+    ],
+    "bizeps curls einhändig": [
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "bizeps curls einhändig",
+            "reps": 12,
+            "sets": 2,
+            "weight": 12.5
+        },
+        {
+            "date": "2021-07-29T00:00:00",
+            "name": "bizeps curls einhändig",
+            "reps": 12,
+            "sets": 4,
+            "weight": 10.0
+        }
+    ],
+    "liegestützen": [
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "liegestützen",
+            "reps": 40,
+            "sets": 1,
+            "weight": 0.0
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "liegestützen",
+            "reps": 30,
+            "sets": 3,
+            "weight": 0.0
+        }
+    ],
+    "bankdrücken schräg": [
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "bankdrücken schräg",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "bankdrücken schräg",
+            "reps": 12,
+            "sets": 1,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-27T00:00:00",
+            "name": "bankdrücken schräg",
+            "reps": 12,
+            "sets": 2,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "bankdrücken schräg",
+            "reps": 12,
+            "sets": 3,
+            "weight": 55.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "bankdrücken schräg",
+            "reps": 12,
+            "sets": 1,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "bankdrücken schräg",
+            "reps": 12,
+            "sets": 3,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "bankdrücken schräg",
+            "reps": 12,
+            "sets": 2,
+            "weight": 40.0
+        }
+    ],
+    "klimmzüge": [
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "klimmzüge",
+            "reps": 10,
+            "sets": 1,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "klimmzüge",
+            "reps": 1,
+            "sets": 1,
+            "weight": 8.0
+        },
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "klimmzüge",
+            "reps": 1,
+            "sets": 1,
+            "weight": 10.0
+        }
+    ],
+    "kniebeugen": [
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 3,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 3,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 1,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 2,
+            "weight": 70.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "kniebeugen",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        }
+    ],
+    "peack back": [
+        {
+            "date": "2021-08-24T00:00:00",
+            "name": "peack back",
+            "reps": 12,
+            "sets": 3,
+            "weight": 30.0
+        }
+    ],
+    "beinpresse": [
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "beinpresse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "beinpresse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 120.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "beinpresse",
+            "reps": 12,
+            "sets": 3,
+            "weight": 160.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "beinpresse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 120.0
+        }
+    ],
+    "wadenpresse": [
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "wadenpresse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "wadenpresse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 120.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "wadenpresse",
+            "reps": 12,
+            "sets": 2,
+            "weight": 140.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "wadenpresse",
+            "reps": 12,
+            "sets": 2,
+            "weight": 160.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "wadenpresse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 50.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "wadenpresse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 90.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "wadenpresse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 110.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "wadenpresse",
+            "reps": 12,
+            "sets": 2,
+            "weight": 130.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "wadenpresse",
+            "reps": 15,
+            "sets": 2,
+            "weight": 140.0
+        },
+        {
+            "date": "2021-08-15T00:00:00",
+            "name": "wadenpresse",
+            "reps": 12,
+            "sets": 1,
+            "weight": 130.0
+        }
+    ],
+    "wadenpresse einbeinig": [
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "wadenpresse einbeinig",
+            "reps": 12,
+            "sets": 1,
+            "weight": 80.0
+        },
+        {
+            "date": "2021-08-22T00:00:00",
+            "name": "wadenpresse einbeinig",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        }
+    ],
+    "rudern langhantel": [
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "rudern langhantel",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "rudern langhantel",
+            "reps": 12,
+            "sets": 2,
+            "weight": 65.0
+        },
+        {
+            "date": "2021-08-16T00:00:00",
+            "name": "rudern langhantel",
+            "reps": 12,
+            "sets": 1,
+            "weight": 60.0
+        }
+    ],
+    "beine hoch zum bauch": [
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "beine hoch zum bauch",
+            "reps": 6,
+            "sets": 2,
+            "weight": 0.0
+        }
+    ],
+    "bizeps einhändig": [
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "bizeps einhändig",
+            "reps": 12,
+            "sets": 3,
+            "weight": 12.5
+        },
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "bizeps einhändig",
+            "reps": 36,
+            "sets": 1,
+            "weight": 10.0
+        }
+    ],
+    "bizeps isoliert einhändig": [
+        {
+            "date": "2021-08-18T00:00:00",
+            "name": "bizeps isoliert einhändig",
+            "reps": 12,
+            "sets": 2,
+            "weight": 12.5
+        }
+    ],
+    "peak back brust": [
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "peak back brust",
+            "reps": 12,
+            "sets": 1,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "peak back brust",
+            "reps": 12,
+            "sets": 1,
+            "weight": 35.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "peak back brust",
+            "reps": 12,
+            "sets": 3,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "peak back brust",
+            "reps": 12,
+            "sets": 1,
+            "weight": 35.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "peak back brust",
+            "reps": 12,
+            "sets": 1,
+            "weight": 30.0
+        }
+    ],
+    "lateral deltoids": [
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "lateral deltoids",
+            "reps": 12,
+            "sets": 1,
+            "weight": 30.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "lateral deltoids",
+            "reps": 12,
+            "sets": 1,
+            "weight": 35.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "lateral deltoids",
+            "reps": 12,
+            "sets": 3,
+            "weight": 40.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "lateral deltoids",
+            "reps": 12,
+            "sets": 1,
+            "weight": 35.0
+        },
+        {
+            "date": "2021-08-20T00:00:00",
+            "name": "lateral deltoids",
+            "reps": 12,
+            "sets": 1,
+            "weight": 30.0
+        }
+    ]
+}
